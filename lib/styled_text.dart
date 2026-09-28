@@ -1,0 +1,3 @@
+class StyledText extends StatelessWidget {
+  
+}
